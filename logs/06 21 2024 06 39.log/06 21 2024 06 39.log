@@ -1,0 +1,7 @@
+[ 2024-06-21 06:39:16,704 ] 22 src.logger.custom_logging - INFO - Entered in Data ingestion
+[ 2024-06-21 06:39:16,712 ] 31 src.logger.custom_logging - INFO - Train test split done data ingestion
+[ 2024-06-21 06:39:16,714 ] 36 src.logger.custom_logging - INFO - Ingestion of the data is completed
+[ 2024-06-21 06:39:25,762 ] 22 src.logger.custom_logging - INFO - Entered in Data ingestion
+[ 2024-06-21 06:39:25,766 ] 31 src.logger.custom_logging - INFO - Train test split done data ingestion
+[ 2024-06-21 06:39:25,768 ] 36 src.logger.custom_logging - INFO - Ingestion of the data is completed
+[ 2024-06-21 06:39:25,770 ] 72 src.logger.custom_logging - INFO - Read train and test data completed

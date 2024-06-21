@@ -1,0 +1,6 @@
+[ 2024-06-21 07:08:09,516 ] 22 src.logger.custom_logging - INFO - Entered in Data ingestion
+[ 2024-06-21 07:08:09,521 ] 31 src.logger.custom_logging - INFO - Train test split done data ingestion
+[ 2024-06-21 07:08:09,523 ] 36 src.logger.custom_logging - INFO - Ingestion of the data is completed
+[ 2024-06-21 07:08:09,524 ] 72 src.logger.custom_logging - INFO - Read train and test data completed
+[ 2024-06-21 07:08:09,531 ] 29 src.logger.custom_logging - INFO - Split train and test split
+[ 2024-06-21 07:08:14,320 ] 90 src.logger.custom_logging - INFO - Best found model on both training and testing dataset

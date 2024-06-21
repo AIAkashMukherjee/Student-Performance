@@ -1,0 +1,13 @@
+[ 2024-06-21 11:38:18,291 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-21 11:38:18,298 ] 97 werkzeug - INFO -  * Debugger PIN: 329-312-707
+[ 2024-06-21 11:38:22,856 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:38:22] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-06-21 11:38:22,867 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:38:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-06-21 11:38:22,869 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:38:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-06-21 11:38:22,909 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:38:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-06-21 11:38:22,956 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:38:22] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-06-21 11:38:58,347 ] 97 werkzeug - INFO -  * Detected change in '/Users/akashmukherjee/Programming/Practise ML/Students Performance/src/pipeline/prediction_pipeline.py', reloading
+[ 2024-06-21 11:38:59,054 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-21 11:38:59,060 ] 97 werkzeug - INFO -  * Debugger PIN: 329-312-707
+[ 2024-06-21 11:39:02,578 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:39:02] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-21 11:39:22,105 ] 97 werkzeug - INFO - 127.0.0.1 - - [21/Jun/2024 11:39:22] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-06-21 11:40:10,932 ] 97 werkzeug - INFO -  * Detected change in '/Users/akashmukherjee/Programming/Practise ML/Students Performance/src/components/model_trainer.py', reloading
