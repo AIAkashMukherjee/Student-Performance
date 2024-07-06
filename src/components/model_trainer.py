@@ -87,6 +87,7 @@ class ModelTrainer:
 
             if best_model_score<0.6:
                 raise CustomException("No best model found")
+            print(f"Best found model on both training and testing dataset {best_model}")
             logger.info(f"Best found model on both training and testing dataset {best_model}")
 
             save_object(

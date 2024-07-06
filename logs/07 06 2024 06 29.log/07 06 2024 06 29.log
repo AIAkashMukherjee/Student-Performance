@@ -1,0 +1,19 @@
+[ 2024-07-06 06:29:44,385 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[ 2024-07-06 06:29:44,385 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-07-06 06:29:44,386 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2024-07-06 06:29:44,960 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-06 06:29:44,970 ] 97 werkzeug - INFO -  * Debugger PIN: 329-312-707
+[ 2024-07-06 06:30:07,143 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:07] "GET / HTTP/1.1" 200 -
+[ 2024-07-06 06:30:07,861 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-06 06:30:18,520 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:18] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-06 06:30:30,695 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:30] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-07-06 06:30:30,715 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-07-06 06:30:30,716 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-07-06 06:30:30,765 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:30] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-07-06 06:30:30,828 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:30] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-07-06 06:30:39,537 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Jul/2024 06:30:39] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-07-06 06:54:44,450 ] 97 werkzeug - INFO -  * Detected change in '/Users/akashmukherjee/Programming/Practise ML/Students Performance/application.py', reloading
+[ 2024-07-06 06:54:44,548 ] 97 werkzeug - INFO -  * Restarting with stat
